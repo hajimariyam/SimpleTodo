@@ -34,6 +34,8 @@ GIF created with [GIF Maker-Editor](https://play.google.com/store/apps/details?i
 
 Describe any challenges encountered while building the app.
 
+While setting up the software, I had to troubleshoot some Gradle and update issues. My machine was not able to run the emulator smoothly so instead, I ran the app on a physical Android phone.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
